@@ -21,3 +21,5 @@ To reproduce the virtual environment used, please run the command
 pip install -r requirements.txt
 ```
 The `requirements.txt` file can be found in the repository.
+
+Dataset for Part 3 cannot be uploaded due to the file size limit. However, here is the link to download it - [Dataset for Part3](https://www.dropbox.com/s/otc12z2w7f7xm8z/mnistTask3.zip?dl=0)
